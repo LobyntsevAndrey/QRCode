@@ -1,0 +1,66 @@
+C:\Users\loben\OneDrive\Рабочий стол\QRcode\bin\Debug\QRcode.exe.config
+C:\Users\loben\OneDrive\Рабочий стол\QRcode\bin\Debug\QRcode.exe
+C:\Users\loben\OneDrive\Рабочий стол\QRcode\bin\Debug\QRcode.pdb
+C:\Users\loben\OneDrive\Рабочий стол\QRcode\obj\Debug\QRcode.csprojAssemblyReference.cache
+C:\Users\loben\OneDrive\Рабочий стол\QRcode\obj\Debug\QRcode.Properties.Resources.resources
+C:\Users\loben\OneDrive\Рабочий стол\QRcode\obj\Debug\QRcode.csproj.GenerateResource.cache
+C:\Users\loben\OneDrive\Рабочий стол\QRcode\obj\Debug\QRcode.csproj.CoreCompileInputs.cache
+C:\Users\loben\OneDrive\Рабочий стол\QRcode\obj\Debug\QRcode.exe
+C:\Users\loben\OneDrive\Рабочий стол\QRcode\obj\Debug\QRcode.pdb
+C:\Users\loben\OneDrive\Рабочий стол\QRcode\obj\Debug\QRcode.Form1.resources
+C:\Users\loben\OneDrive\Рабочий стол\QRcode\obj\Debug\QRcode.csproj.CopyComplete
+C:\Users\loben\OneDrive\Рабочий стол\cource\QRcode\bin\Debug\QRcode.exe.config
+C:\Users\loben\OneDrive\Рабочий стол\cource\QRcode\bin\Debug\QRcode.exe
+C:\Users\loben\OneDrive\Рабочий стол\cource\QRcode\bin\Debug\QRcode.pdb
+C:\Users\loben\OneDrive\Рабочий стол\cource\QRcode\obj\Debug\QRcode.csprojAssemblyReference.cache
+C:\Users\loben\OneDrive\Рабочий стол\cource\QRcode\obj\Debug\QRcode.Form1.resources
+C:\Users\loben\OneDrive\Рабочий стол\cource\QRcode\obj\Debug\QRcode.Properties.Resources.resources
+C:\Users\loben\OneDrive\Рабочий стол\cource\QRcode\obj\Debug\QRcode.csproj.GenerateResource.cache
+C:\Users\loben\OneDrive\Рабочий стол\cource\QRcode\obj\Debug\QRcode.csproj.CoreCompileInputs.cache
+C:\Users\loben\OneDrive\Рабочий стол\cource\QRcode\obj\Debug\QRcode.csproj.CopyComplete
+C:\Users\loben\OneDrive\Рабочий стол\cource\QRcode\obj\Debug\QRcode.exe
+C:\Users\loben\OneDrive\Рабочий стол\cource\QRcode\obj\Debug\QRcode.pdb
+D:\Рабочий стол\cource\QRcode — копия\bin\Debug\QRcode.exe.config
+D:\Рабочий стол\cource\QRcode — копия\bin\Debug\QRcode.exe
+D:\Рабочий стол\cource\QRcode — копия\bin\Debug\QRcode.pdb
+D:\Рабочий стол\cource\QRcode — копия\obj\Debug\QRcode.csprojAssemblyReference.cache
+D:\Рабочий стол\cource\QRcode — копия\obj\Debug\QRcode.Form1.resources
+D:\Рабочий стол\cource\QRcode — копия\obj\Debug\QRcode.Properties.Resources.resources
+D:\Рабочий стол\cource\QRcode — копия\obj\Debug\QRcode.csproj.GenerateResource.cache
+D:\Рабочий стол\cource\QRcode — копия\obj\Debug\QRcode.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\cource\QRcode — копия\obj\Debug\QRcode.csproj.CopyComplete
+D:\Рабочий стол\cource\QRcode — копия\obj\Debug\QRcode.exe
+D:\Рабочий стол\cource\QRcode — копия\obj\Debug\QRcode.pdb
+D:\Рабочий стол\cource\QRcode — копия — копия\bin\Debug\QRcode.exe.config
+D:\Рабочий стол\cource\QRcode — копия — копия\bin\Debug\QRcode.exe
+D:\Рабочий стол\cource\QRcode — копия — копия\bin\Debug\QRcode.pdb
+D:\Рабочий стол\cource\QRcode — копия — копия\obj\Debug\QRcode.csprojAssemblyReference.cache
+D:\Рабочий стол\cource\QRcode — копия — копия\obj\Debug\QRcode.Form1.resources
+D:\Рабочий стол\cource\QRcode — копия — копия\obj\Debug\QRcode.Properties.Resources.resources
+D:\Рабочий стол\cource\QRcode — копия — копия\obj\Debug\QRcode.csproj.GenerateResource.cache
+D:\Рабочий стол\cource\QRcode — копия — копия\obj\Debug\QRcode.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\cource\QRcode — копия — копия\obj\Debug\QRcode.csproj.CopyComplete
+D:\Рабочий стол\cource\QRcode — копия — копия\obj\Debug\QRcode.exe
+D:\Рабочий стол\cource\QRcode — копия — копия\obj\Debug\QRcode.pdb
+D:\Рабочий стол\QRcode\bin\Debug\QRcode.exe.config
+D:\Рабочий стол\QRcode\bin\Debug\QRcode.exe
+D:\Рабочий стол\QRcode\bin\Debug\QRcode.pdb
+D:\Рабочий стол\QRcode\obj\Debug\QRcode.csprojAssemblyReference.cache
+D:\Рабочий стол\QRcode\obj\Debug\QRcode.Form1.resources
+D:\Рабочий стол\QRcode\obj\Debug\QRcode.Properties.Resources.resources
+D:\Рабочий стол\QRcode\obj\Debug\QRcode.csproj.GenerateResource.cache
+D:\Рабочий стол\QRcode\obj\Debug\QRcode.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\QRcode\obj\Debug\QRcode.csproj.CopyComplete
+D:\Рабочий стол\QRcode\obj\Debug\QRcode.exe
+D:\Рабочий стол\QRcode\obj\Debug\QRcode.pdb
+D:\Рабочий стол\Второй\QRcode Project\bin\Debug\QRcode.exe.config
+D:\Рабочий стол\Второй\QRcode Project\bin\Debug\QRcode.exe
+D:\Рабочий стол\Второй\QRcode Project\bin\Debug\QRcode.pdb
+D:\Рабочий стол\Второй\QRcode Project\obj\Debug\QRcode.csprojAssemblyReference.cache
+D:\Рабочий стол\Второй\QRcode Project\obj\Debug\QRcode.Form1.resources
+D:\Рабочий стол\Второй\QRcode Project\obj\Debug\QRcode.Properties.Resources.resources
+D:\Рабочий стол\Второй\QRcode Project\obj\Debug\QRcode.csproj.GenerateResource.cache
+D:\Рабочий стол\Второй\QRcode Project\obj\Debug\QRcode.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\Второй\QRcode Project\obj\Debug\QRcode.csproj.CopyComplete
+D:\Рабочий стол\Второй\QRcode Project\obj\Debug\QRcode.exe
+D:\Рабочий стол\Второй\QRcode Project\obj\Debug\QRcode.pdb

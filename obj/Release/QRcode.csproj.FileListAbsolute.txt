@@ -1,0 +1,5 @@
+D:\Рабочий стол\Второй\QRcode Project\obj\Release\QRcode.csprojAssemblyReference.cache
+D:\Рабочий стол\Второй\QRcode Project\obj\Release\QRcode.Form1.resources
+D:\Рабочий стол\Второй\QRcode Project\obj\Release\QRcode.Properties.Resources.resources
+D:\Рабочий стол\Второй\QRcode Project\obj\Release\QRcode.csproj.GenerateResource.cache
+D:\Рабочий стол\Второй\QRcode Project\obj\Release\QRcode.csproj.CoreCompileInputs.cache
